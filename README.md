@@ -19,7 +19,7 @@
 
 ##### Gitを実際に使って基本的なことを抑えていきます。
 
-- [初めてのGit](https://github.com/techlogics/WEB_Document/blob/master/operation.md)
+- [初めてのGit](https://github.com/techlogics/Git_Document/blob/master/operation.md)
 
 
 ## Gitの実践的な使い方
