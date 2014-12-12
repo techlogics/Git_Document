@@ -14,7 +14,6 @@
 
 - [Gitとは?](https://github.com/techlogics/WEB_Document/blob/master/grammar.md)
 
-
 ## Gitの基本的な使い方
 
 ##### Gitを実際に使って基本的なことを抑えていきます。
@@ -55,7 +54,7 @@
 
 ==============
 ##運営
-[株式会社Far Connection](http://farconnection.jp)  
+[株式会社Far Connection](http://farconnection.jp)
 [プログラミングコミュニティTECH LOGICS](http://techlogics.link)
 
 
