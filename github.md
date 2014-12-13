@@ -16,6 +16,14 @@
 
 バージョン管理
 -
-バージョン管理したいファイルを先ほど設定したローカルのパスにD&Dしてください。  
+バージョン管理したいファイルを先ほど設定したローカルのパスにD&Dしてください。
+![](https://www.evernote.com/shard/s324/sh/bf34050d-b970-459e-9c42-802af78f1982/cfef048ff07eafd3b5305fe9cf5f987e/deep/0/MyFirstRepository.png)
 
+そしたらGithub for Macを開いてみましょう。先ほど追加したファイルが表示されていると思います。ファイルの変更箇所などが表示されます。ではコミットメッセージを入力してコミットしてみましょう。
+![](https://www.evernote.com/shard/s324/sh/f88efc64-f422-4ef6-9244-7e8c145b12dd/41afeba62f8dbd80c9490c1094fb8852/deep/0/tkcfjips-MyFirstRepository.png)
 
+では、コミットができたので次はGithubにプッシュしてみましょう。右上のボタンでプッシュします。ちなみにコミットとプッシュを同時にやりたければ、Commitボタンの左のボタンをクリックすることでコミットとプッシュを同時にしてくれるようになります。
+![](https://www.evernote.com/shard/s324/sh/059d14d4-4b07-4f0f-b753-baacc2561cbd/e49c9deae2aa28ddf37c42cc2476c0b3/deep/0/tkcfjips-MyFirstRepository.png)
+
+[github.com](github.com)に行ってうまくいっているか確認してみましょう。うまくいっていればこのようになっているはずです。
+![](https://www.evernote.com/shard/s324/sh/af6f9d4d-7264-4a53-874b-4cba0df67d99/96692efdff38976a2a76d69cb6fd8781/deep/0/tkcfjips-MyFirstRepository-and-tkcfjips-MyFirstRepository.png)
