@@ -7,25 +7,18 @@
 - [Android版](https://github.com/techlogics/Android_Document)
 
 ==============
-
-## Gitとは
-
-##### Gitを初めて触る人、Gitの考え方について学んでいきます。
-
-- [Gitとは?](https://github.com/techlogics/WEB_Document/blob/master/grammar.md)
-
-## Gitの基本的な使い方
+## Gitの基本
 
 ##### Gitを実際に使って基本的なことを抑えていきます。
 
-- [初めてのGit](https://github.com/techlogics/Git_Document/blob/master/operation.md)
+- [Gitの基本](https://github.com/techlogics/Git_Document/blob/master/grammar.md)
 
 
 ## Gitの実践的な使い方
 
 ##### 実際の現場での使い方を学んでいきます。
 
-- [Gitの実践的な使い方](https://github.com/techlogics/WEB_Document/blob/master/useful.md)
+- [Gitの実践的な使い方](https://github.com/techlogics/Git_Document/blob/master/practice.md)
 
 
 ---
@@ -54,7 +47,7 @@
 
 ==============
 ##運営
-[株式会社Far Connection](http://farconnection.jp)
+[株式会社Far Connection](http://farconnection.jp)  
 [プログラミングコミュニティTECH LOGICS](http://techlogics.link)
 
 
