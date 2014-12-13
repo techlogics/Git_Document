@@ -1,6 +1,6 @@
 #Github for Mac 使い方
 ---
-今回はGithub公式のクライアントを使ってGitを使っていきたいと思います。まずはGithubのクライアントを[Macの方はこちら](https://mac.github.com/) / [Windowsの方はこちら](https://windows.github.com/)からダウンロードしてインストールしてください。
+皆さんはGitの基本的な使い方は理解していると思いますが、今回はGithub公式のクライアントを使ってGitを使っていきたいと思います。もし、Gitで使う用語などがわからない場合は[こちら](https://github.com/techlogics/Git_Document/blob/master/grammer.md)からまずは基礎をお勉強してからこのドキュメントを見てくれると嬉しいです。まずはGithubのクライアントを[Macの方はこちら](https://mac.github.com/) / [Windowsの方はこちら](https://windows.github.com/)からダウンロードしてインストールしてください。
 
 リポジトリの作成
 -
@@ -27,3 +27,20 @@
 
 [github.com](github.com)に行ってうまくいっているか確認してみましょう。うまくいっていればこのようになっているはずです。
 ![](https://www.evernote.com/shard/s324/sh/af6f9d4d-7264-4a53-874b-4cba0df67d99/96692efdff38976a2a76d69cb6fd8781/deep/0/tkcfjips-MyFirstRepository-and-tkcfjips-MyFirstRepository.png)
+
+コンフリクトの対処方法
+-
+これがコンフリクトが起きたときの画面です。
+![](https://www.evernote.com/shard/s324/sh/b738d51e-bd7c-4761-9fed-77aa3c15bcc5/3cf133c2b280ab159ee8c5f80e142408/deep/0/tkcfjips-MyFirstRepository.png)
+
+```git
+<<<<<<< HEAD
+コンフリクト
+=======
+コンフリクトその②
+>>>>>>> FETCH_HEAD
+```
+の`<<<<<<< HEAD`から`=======`までが自分の編集した部分で`=======`から`>>>>>>> FETCH_HEAD`が相手の編集した部分になります。
+![](https://www.evernote.com/shard/s324/sh/22fe7489-b09f-4742-8a06-4d5e6f6d76f1/a7efbaaeeb81c3527db2832cc4c9d07e/deep/0/test.txt.png)
+
+これを編集して再度コミットしてあげることで解消することができます。
