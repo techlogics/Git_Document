@@ -11,7 +11,7 @@
 
 ##### Gitを実際に使って基本的なことを抑えていきます。
 
-- [Gitの基本](https://github.com/techlogics/Git_Document/blob/master/grammar.md)
+- [Gitの基本](https://github.com/techlogics/Git_Document/blob/master/grammer.md)
 
 
 ## Gitの実践的な使い方
@@ -47,7 +47,7 @@
 
 ==============
 ##運営
-[株式会社Far Connection](http://farconnection.jp)  
+[株式会社Far Connection](http://farconnection.jp)
 [プログラミングコミュニティTECH LOGICS](http://techlogics.link)
 
 
