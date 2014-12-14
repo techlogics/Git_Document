@@ -25,6 +25,7 @@
 ##編集者
 
 - [Kenichi Saito](https://www.github.com/tkcfjips)
+- [いっち](https://github.com/icchis)
 
 このTECH LOGICS開発者養成ドキュメントmdはTECH LOGICSメンバーに関わらず、<br>
 様々な方の意見を頂きながら__オープンソースな日本一のプログラミングドキュメント__を作成しております。<br>
