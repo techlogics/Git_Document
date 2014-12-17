@@ -30,3 +30,6 @@ gitの使い方としては様々な方法があります。
 
 ###参照サイト
 * [gitの用語とコマンドまとめ](http://qiita.com/yusukaaay/items/56de8e5f3f0d888906d1)
+* [Gitのコミットメッセージの書き方](http://qiita.com/itosho/items/9565c6ad2ffc24c09364)
+* [ChangeLog を支える英語](https://gist.github.com/hayajo/3938098)
+
