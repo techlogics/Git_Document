@@ -52,6 +52,5 @@
 [プログラミングコミュニティTECH LOGICS](http://techlogics.link)
 
 
-##テスト
 
 testtest
