@@ -50,5 +50,4 @@
 ##運営
 [株式会社Far Connection](http://farconnection.co.jp)  
 [プログラミングコミュニティTECH LOGICS](http://techlogics.link)
-
-
+斉藤です。
