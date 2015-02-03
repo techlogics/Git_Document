@@ -52,9 +52,3 @@
 [プログラミングコミュニティTECH LOGICS](http://techlogics.link)
 
 
-
-testtest
-
-コンフリクト
-
-
