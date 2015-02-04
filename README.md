@@ -55,4 +55,7 @@
 test
 test
 
+test-icchi
+test-icchi
+
 
