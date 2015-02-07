@@ -11,6 +11,22 @@
 ![](https://www.evernote.com/shard/s324/sh/c06b8223-cd74-4607-b63a-7290921b44ee/40938b6ba19a1e75658f8724500a86dc/deep/0/MyFirstRepository-(Git).png)
 
 ## バージョン管理
+では早速新しくファイルを作ってGitで管理してみましょう。ファイル名は`test.txt`とします。中身を適当に編集してみます。
+![](https://www.evernote.com/shard/s324/sh/0ecea076-607e-4645-889f-8823cb31ee23/946870f447e26e78dc4e9d3f00831d21/deep/0/test.txt---Git_Document.png)
+
+SourceTreeに移ってコミットをしてみましょう。
+![](https://www.evernote.com/shard/s324/sh/605a79a9-631e-4a7a-a489-ccd6469341bc/348d7d80907a2870c039d70eb841f1ad/deep/0/MyFirstRepository-(Git).png)
+
+現在ファイルはコミットする準備ができていない状態(ステージされていない状態)でこれをステージングしてあげる必要があります。下の`unstaged files`からステージングしたいファイルを選択してください。
+
+それではいよいよコミットです。
+![](https://www.evernote.com/shard/s324/sh/bb13e899-81ec-4535-96bf-644279625d7e/60ed1c3c3fcb622b7441e27fd6063376/deep/0/MyFirstRepository-(Git).png)
+
+矢印のコミットボタンを押してコミットしましょう。
+するとコミットメッセージを入力するように言われますのでコミットメッセージを書きましょう。コミットメッセージの書き方は[こちら](http://qiita.com/itosho/items/9565c6ad2ffc24c09364)の記事が参考になります。
+コミットメッセージを書いたらコミットを押してください。
+
+終わるとこのように画面上の`Push`のボタンにバッジがついたと思います。次はこれをサーバーにプッシュしたい思います。プッシュボタンを押すとリポジトリとブランチを選択する画面が現れますがデフォルトの`master`で問題ないのでそのままプッシュしましょう。プッシュが終わったらGithubに行って自分のプッシュを確認してみましょう。
 
 ## コンフリクトの対処方法
 ```git
