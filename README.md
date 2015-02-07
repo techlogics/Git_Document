@@ -18,7 +18,9 @@
 
 ##### 実際の現場での使い方を学んでいきます。
 
-- [Gitの実践的な使い方](https://github.com/techlogics/Git_Document/blob/master/practice.md)
+- [Github for Mac](https://github.com/techlogics/Git_Document/blob/master/github.md)
+- [SourceTree for Mac](https://github.com/techlogics/Git_Document/blob/master/sourceTree.md)
+
 
 
 ---
